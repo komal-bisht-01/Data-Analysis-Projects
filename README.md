@@ -15,7 +15,7 @@ I am looking for a 6-month data analyst internship. My focus is data preparation
 
 ## Skills
 
-Python · data cleaning and preparation · data quality checks · data visualisation · KPI reporting · Excel · [Power BI, SQL if used]
+Python · data cleaning and preparation · data quality checks · data visualisation · KPI reporting · Excel · [Power BI, SQL]
 
 ## Contact
 
